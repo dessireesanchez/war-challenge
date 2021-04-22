@@ -1,2 +1,4 @@
 # war-challenge
-Simple iOS cards game
+Simple iOS cards game with SwitfUI
+
+![screenshot](screenshot.png)
