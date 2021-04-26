@@ -28,7 +28,9 @@ struct ContentView: View {
             
                 }
                 Spacer()
-                Image("dealbutton")
+                Button(action: /*@START_MENU_TOKEN@*/{}/*@END_MENU_TOKEN@*/, label: {
+                    Image("dealbutton")
+                })
                 
                 Spacer()
                 
